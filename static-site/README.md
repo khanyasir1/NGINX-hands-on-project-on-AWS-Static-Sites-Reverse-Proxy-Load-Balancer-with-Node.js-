@@ -8,6 +8,8 @@ Deploy a static website using **NGINX** on an **Ubuntu EC2 instance** by cloning
 
 ---
 
+![Project Output](/images/nginx-project-01-static-website.png)
+
 ## ✅ Step-by-Step Implementation  
 
 ### 1. 🟢 Launch & Connect to EC2 Instance  

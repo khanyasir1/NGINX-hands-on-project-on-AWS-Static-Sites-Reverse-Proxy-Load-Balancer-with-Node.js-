@@ -5,6 +5,8 @@ Host a static frontend using NGINX and reverse proxy all API requests to a Node.
 
 ---
 
+![Project Output](/images/project-02-nginx-reverse-proxy.png)
+
 ## ✅ Step-by-Step Implementation
 
 ### 1. 🟢 Launch and Connect to EC2 Instance

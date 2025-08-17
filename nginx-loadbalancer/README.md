@@ -6,6 +6,8 @@ To deploy a load-balanced architecture using NGINX that distributes traffic acro
 
 ---
 
+![Project Output](/images/project-03-nginx-load-balancer.png)
+
 ## ✅ Step-by-Step Implementation
 
 ### 1. 🟢 Launch and Connect to EC2 Instance
